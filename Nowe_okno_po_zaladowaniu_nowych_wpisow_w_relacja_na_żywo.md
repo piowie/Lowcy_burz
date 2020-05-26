@@ -13,3 +13,4 @@ Oczekiwany rezultat:
 Starsze wpisy są dodawane w tym samym kontenerze, zamiast w nowym oknie.
 
 Video:  
+https://www.google.com/url?q=https://1drv.ms/v/s!AodpVRGnPfx-j0yiTwwwA6QhgpnV&sa=D&ust=1590499045308000&usg=AFQjCNEQczkLfvO2VZ1LcDYdrW0bEUJtmA
