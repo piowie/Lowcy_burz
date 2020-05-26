@@ -21,3 +21,5 @@ Zawsze
 
 Screeny:  
 
+<img src="img/Nieaktywni_link_adres_mailowy.png">
+
