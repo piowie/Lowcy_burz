@@ -20,4 +20,6 @@ Podany email brzmi następująco "kontakt@obserwatorzy.info"
 Powtarzalność:  
 Zawsze  
 
-Screeny:  
+Screeny:
+
+<img src="img/Nieprawidłowy_zapis_email.png">
