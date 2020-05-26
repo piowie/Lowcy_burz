@@ -6,7 +6,7 @@ Opera 67.0.3575.115
 Chrome 80.0.3987.163  
 Microsoft Edge 44.18362.449.0  
 
-Kroki do odtworzenia:  
+Kroki do odtworzenia:
 1. Użytkownik wchodzi na stronę obserwatorzy.info          
 2. Z górnego tray bara wybiera "Edukacja"  
 3. Wyszukuje artykuł "Trąby w Holandii-aktualizacja"  
