@@ -14,3 +14,4 @@ Pasek z informacjami o "ciasteczkach" jest nietransparentny na całej swojej dł
 
 Screeny:  
 
+<img src="img/Przebijający_pasek_cookies.png">
