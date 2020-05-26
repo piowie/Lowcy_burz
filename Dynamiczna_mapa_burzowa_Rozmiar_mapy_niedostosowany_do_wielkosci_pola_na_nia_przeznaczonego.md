@@ -14,5 +14,9 @@ Aktualny rezultat:
 "Pole" przeznaczone na Dynamiczna mapę burzową ,względem samej mapy jest zbyt duże, niezależnie od rozmiaru okna przeglądarki internetowej, (rozmiar mapy nie jest dostosowany do wielkości kontenera w którym się znajduje) Wszelkiego rodzaju AddBlocki są WYŁĄCZONE  
 
 Oczekiwany rezultat:  
-"Pole" przeznaczone na Dynamiczna mapę burzową jest dopasowane do wielkości samej mapy
+"Pole" przeznaczone na Dynamiczna mapę burzową jest dopasowane do wielkości samej mapy  
+
+Screeny: 
+
+<img src="img/Okno_mapa_burzowa.png">
 
