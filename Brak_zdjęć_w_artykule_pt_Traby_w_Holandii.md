@@ -21,5 +21,6 @@ Powtarzalność:
 Zawsze  
 
 Screeny:  
+<img src="img/Brak_zdjęć_w_artukule.png">
 
 
