@@ -7,9 +7,7 @@ Chrome 80.0.3987.163
 Microsoft Edge 44.18362.449.0  
 
 Kroki do odtworzenia:  
-
 Użytkownik znajduje się na stronie głównej.
-
 Po parokrotnym wciśnięciu przycisków odpowiedzialnych za zmianę informacji na mapie następuje jej zbliżenie.  
 
 Aktualny rezultat:  
