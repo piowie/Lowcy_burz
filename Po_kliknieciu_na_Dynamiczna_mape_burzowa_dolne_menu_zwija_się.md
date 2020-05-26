@@ -19,7 +19,7 @@ Kliknięcie w "Dynamiczna mapa burzowa" nie powoduje automatyczne zwijania paska
 Powtarzalność:  
 Zawsze  
 
-Video:
+Video:  
 https://1drv.ms/v/s!AodpVRGnPfx-kRWUlWC_Qk5M-_tm
 
 
