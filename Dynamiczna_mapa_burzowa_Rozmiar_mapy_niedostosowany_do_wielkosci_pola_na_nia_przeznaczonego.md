@@ -2,8 +2,8 @@ System Operacyjny:
 Windows 10 Home Edition  
 
 Przeglądarka(i) internetowa:   
-Opera 67.0.3575.115
-Chrome 80.0.3987.163
+Opera 67.0.3575.115  
+Chrome 80.0.3987.163  
 Microsoft Edge 44.18362.449.0
 
 
