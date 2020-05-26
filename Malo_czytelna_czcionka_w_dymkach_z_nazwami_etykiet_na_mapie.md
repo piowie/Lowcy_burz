@@ -21,3 +21,5 @@ Powtarzalność:
 Zawsze  
 
 Screeny:  
+
+<img src="img/1._nieczytelna_czcionka.JPG.jpg">
