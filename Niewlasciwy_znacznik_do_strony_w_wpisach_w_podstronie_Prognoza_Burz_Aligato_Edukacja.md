@@ -24,3 +24,5 @@ Zawsze
 
 Screeny:  
 
+<img src="img/Niewlasciwy_znacznik_autor_wpisu.png">
+
