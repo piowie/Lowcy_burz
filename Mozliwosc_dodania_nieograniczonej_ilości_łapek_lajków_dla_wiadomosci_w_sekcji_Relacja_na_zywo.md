@@ -22,4 +22,6 @@ Zawsze
 
 Screeny:  
 
+<img src="img/Nieograniczone_lajki1.png">
+<img src="img/Nieograniczone_lajki2.png">
 
