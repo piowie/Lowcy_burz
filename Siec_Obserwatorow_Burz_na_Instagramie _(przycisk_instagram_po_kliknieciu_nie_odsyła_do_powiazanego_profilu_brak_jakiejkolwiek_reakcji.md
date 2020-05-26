@@ -15,4 +15,8 @@ Aktualny rezulat:
 Odnośnik (instagram) jest nieaktywny.  
 
 Oczekiwany rezultat:  
-Po wciśnięciu w odnośnik (Instagram) użytkownik jest przekierowywany do odpowiedniej witryny  
+Po wciśnięciu w odnośnik (Instagram) użytkownik jest przekierowywany do odpowiedniej witryny   
+
+Screeny:  
+
+<img src="img/Obserwatorzy_Instaram.png">
