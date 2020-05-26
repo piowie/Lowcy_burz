@@ -21,4 +21,4 @@ Zawsze
 Screeny:  
 
 <img src="img/Ucieta_reklam1.png">
-<img src="img/Ucieta_reklam2.png">
+<img src="img/Ucieta_reklama2.png">
