@@ -22,6 +22,7 @@ Zawsze
 
 Screeny:  
 
+<img src="img/Przelacz_motyw_mapy.png">
 
 
 
