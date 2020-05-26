@@ -19,6 +19,8 @@ FEATURE: Opis aktualizacji na "dynamiczna mapa burzowa" jest gdzieś obok mapy (
 Powtarzalność:  
 Zawsze  
 
-Screeny:  
+Screeny: 
 
+<img src="img/Brak_responsywności_aktualizacji_mapy1.png">
+<img src="img/Brak_responsywności_aktualizacji_mapy2.png">
 
