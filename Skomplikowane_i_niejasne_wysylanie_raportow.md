@@ -18,3 +18,6 @@ Możliwość wprowadzenia danych z datą wsteczną (np. 1788 rok) oraz datą"" z
 Po wybraniu ""Pinezką"" lokalizacji, istnieje możliwość edycji danych "pobranych" przez pinezkę na dowolny ciąg znaków (np. liczby) i wysłaniu raportu z w/w danymi jako poprawnie wypełniony raport. 
 
 Screeny:  
+
+<img src="img/Raport_1.png">
+<img src="img/Raport_2.png">
