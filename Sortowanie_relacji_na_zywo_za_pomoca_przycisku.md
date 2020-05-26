@@ -15,4 +15,7 @@ Aktualny rezultat:
 Animacja odświeżania posortowanych wpisów jest "chaotyczna"  
 
 Oczekiwany rezultat:  
-Animacja odświeżania posortowanych wpisów jest bardziej stonowana.   
+Animacja odświeżania posortowanych wpisów jest bardziej stonowana.  
+
+Screeny:  
+<img src="img/Animacja_odswieżania.png">
