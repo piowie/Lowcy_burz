@@ -20,7 +20,9 @@ Wszystkie artykuły posiadają dobrze  podpięte (podlinkowane) obrazki
 Powtarzalność:  
 Zawsze  
 
-Screeny:  
+Screeny: 
+
+<img src="img/Brak_niektórych_obrazków.png">
 
 
 
