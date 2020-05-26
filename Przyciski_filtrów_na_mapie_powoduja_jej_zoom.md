@@ -16,6 +16,7 @@ Wciskanie przycisków filtrów na "dynamicznej mapie burzowej" powoduje jej "nie
 Oczekiwany rezultat:  
 Brak niechcianego zoomu "dynamicznej mapy burzowej' poprzez wciskanie przycisków filtrów  
 
-Screeny:  
+Video:  
+https://1drv.ms/v/s!AodpVRGnPfx-jz_j7zW12SpXmDSD
 
 
