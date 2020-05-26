@@ -22,3 +22,5 @@ Zawsze
 
 Screeny:  
 
+<img src="img/Blad_kopiowanego_linku.png">
+
