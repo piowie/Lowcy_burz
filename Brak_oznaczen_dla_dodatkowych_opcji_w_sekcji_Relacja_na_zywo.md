@@ -21,3 +21,4 @@ Zawsze
 
 Screeny:  
  
+<img src="img/Brak_oznaczen_dla_dodatkowych_ikon.png">
